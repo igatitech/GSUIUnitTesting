@@ -1,3 +1,6 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/igatitech/GSUIUnitTesting/blob/master/LICENSE) 
+![Swift: 5.0.x](https://img.shields.io/badge/Swift-5.0.x-orange)
+
 # GSUIUnitTesting
 
 **Happy Coding! Cheers!!** 🥂 

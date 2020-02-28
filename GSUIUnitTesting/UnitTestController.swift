@@ -8,8 +8,8 @@
 
 import UIKit
 
-class ViewController: UIViewController {
-    var firstName : String?
+class UnitTestController: UIViewController {
+    var userName : String?
     var phoneNumber : String?
     var email : String?
 
@@ -18,8 +18,9 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
 
+    //MARK:- Custom Methods
     func validFirstName() -> Bool {
-        return firstName?.count ?? 0 > 3
+        return userName?.count ?? 0 > 3
     }
     
     func validPhoneNumber() -> Bool {
@@ -43,6 +44,5 @@ class ViewController: UIViewController {
         }
         return sum
     }
-
 }
 

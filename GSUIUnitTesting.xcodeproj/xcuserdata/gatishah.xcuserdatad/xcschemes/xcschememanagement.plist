@@ -9,6 +9,29 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>GSUIUnitTestingUITests.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>59A85E632402DE57000987F1</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>59A85E792402DE5A000987F1</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>59A85E842402DE5A000987F1</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 	</dict>
 </dict>
 </plist>

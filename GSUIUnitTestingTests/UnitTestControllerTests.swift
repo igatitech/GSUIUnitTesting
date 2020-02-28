@@ -9,8 +9,8 @@
 import XCTest
 @testable import GSUIUnitTesting
 
-class ViewControllerTests: XCTestCase {
-    let vc = ViewController()
+class UnitTestControllerTests: XCTestCase {
+    let vc = UnitTestController()
     
     func testSquareInt() {
         let value = 3
@@ -19,7 +19,7 @@ class ViewControllerTests: XCTestCase {
     }
     
     func testFirstName() {
-        vc.firstName = "Gati"
+        vc.userName = "Gati"
         XCTAssertTrue(vc.validFirstName())
     }
     
